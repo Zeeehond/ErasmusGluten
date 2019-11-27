@@ -14,7 +14,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-/ErasumusGlutenUnity/Bestanden/
+ErasumusGlutenUnity/Library/PlayerDataCache/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -71,3 +71,5 @@ crashlytics-build.properties
 
 # End of https://www.gitignore.io/api/unity
 
+ErasumusGlutenUnity/Library/
+ErasumusGlutenUnity/Temp/
